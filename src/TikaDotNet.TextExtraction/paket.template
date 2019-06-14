@@ -1,0 +1,11 @@
+type file
+authors Kevin Miller
+id TikaDotnet.TextExtractor
+description
+  Classes for running Apache Tika through **TikaDotNet**. Just use TextExtractor.Extract() and you'll be on your way.
+files
+    bin\Release\TikaDotNet.* ==> lib
+dependencies
+    TikaDotnet CURRENTVERSION
+projectUrl
+  https://github.com/dbarrera/TikaDotNet

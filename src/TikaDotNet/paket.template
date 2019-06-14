@@ -1,0 +1,11 @@
+type file
+authors Kevin Miller
+id TikaDotnet
+description
+  Bare-bones IKVM Java-to-.NET port of Apache Tika. You'll want to install TikaDotNet.TextExtractor.
+files
+  ..\..\lib\TikaDotNet.dll ==> lib
+dependencies
+  IKVM >= 8.1.5717
+projectUrl
+  https://github.com/dbarrera/TikaDotNet

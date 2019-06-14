@@ -1,0 +1,6 @@
+MSTest.TestAdapter
+MSTest.TestFramework
+NUnit
+NUnit3TestAdapter
+FluentAssertions
+IKVM

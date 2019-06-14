@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TikaDotNet.Tests", "TikaDotNet.Tests\TikaDotNet.Tests.csproj", "{0781F1D2-2220-4C98-BDF7-8A8C1355C02E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TikaDotNet.TextExtraction", "TikaDotNet.TextExtraction\TikaDotNet.TextExtraction.csproj", "{ACC4C54A-72A1-4F54-B8A8-9685A3685549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0781F1D2-2220-4C98-BDF7-8A8C1355C02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0781F1D2-2220-4C98-BDF7-8A8C1355C02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0781F1D2-2220-4C98-BDF7-8A8C1355C02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0781F1D2-2220-4C98-BDF7-8A8C1355C02E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC4C54A-72A1-4F54-B8A8-9685A3685549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC4C54A-72A1-4F54-B8A8-9685A3685549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC4C54A-72A1-4F54-B8A8-9685A3685549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC4C54A-72A1-4F54-B8A8-9685A3685549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52873700-E2B0-47B4-9E11-2C3F988B8FCF}
+	EndGlobalSection
+EndGlobal
